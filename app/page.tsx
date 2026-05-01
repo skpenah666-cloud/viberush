@@ -12,13 +12,13 @@ export default function Home() {
 
       <div className="flex gap-4">
         <a href="/upload">
-          <button className="px-6 py-3 bg-orange-500 text-black rounded-lg hover:bg-orange-400 transition">
+          <button className="px-6 py-3 bg-orange-500 text-black rounded-lg">
             Upload Music
           </button>
         </a>
 
         <a href="/library">
-          <button className="px-6 py-3 border border-orange-500 rounded-lg hover:bg-orange-500 hover:text-black transition">
+          <button className="px-6 py-3 border border-orange-500 rounded-lg">
             View Library
           </button>
         </a>
