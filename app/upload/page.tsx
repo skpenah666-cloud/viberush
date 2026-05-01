@@ -45,7 +45,7 @@ export default function UploadPage() {
         Upload your sound. Build your wave.
       </p>
 
-      <div className="bg-zinc-900 p-6 rounded-xl w-full max-w-md shadow-lg">
+      <div className="bg-zinc-900 p-6 rounded-xl w-full max-w-md">
         
         <h2 className="text-xl mb-4 text-center">
           Upload Music 🎵
